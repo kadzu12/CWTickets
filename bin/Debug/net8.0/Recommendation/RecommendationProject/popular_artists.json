@@ -1,0 +1,52 @@
+[
+    {
+        "id_artist":1,
+        "name_artist":"Ksb Muzic",
+        "popularity_score":3.2722802589
+    },
+    {
+        "id_artist":3,
+        "name_artist":"GONE.Fludd",
+        "popularity_score":2.513674857
+    },
+    {
+        "id_artist":4,
+        "name_artist":"Мэйби Бэйби",
+        "popularity_score":2.3397105102
+    },
+    {
+        "id_artist":2,
+        "name_artist":"Lovv66",
+        "popularity_score":2.1987094215
+    },
+    {
+        "id_artist":25,
+        "name_artist":"Ирина Круг",
+        "popularity_score":2.077069889
+    },
+    {
+        "id_artist":34,
+        "name_artist":"Twenty One Pilots",
+        "popularity_score":0.9534161491
+    },
+    {
+        "id_artist":33,
+        "name_artist":"The Garden",
+        "popularity_score":0.8671115274
+    },
+    {
+        "id_artist":6,
+        "name_artist":"Лампабикт",
+        "popularity_score":0.7454719949
+    },
+    {
+        "id_artist":26,
+        "name_artist":"Сергей Трофимов",
+        "popularity_score":0.6907755279
+    },
+    {
+        "id_artist":5,
+        "name_artist":"Billy’s Band",
+        "popularity_score":0.6591673732
+    }
+]

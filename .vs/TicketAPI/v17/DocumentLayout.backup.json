@@ -1,0 +1,721 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\recommendation\\recommendationproject\\main.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:recommendation\\recommendationproject\\main.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\services\\recommendationschedulerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:services\\recommendationschedulerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\services\\notificationschedulerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:services\\notificationschedulerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\services\\notificationgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:services\\notificationgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\controllers\\recommendationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:controllers\\recommendationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\controllers\\hallcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:controllers\\hallcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\controllers\\favoritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:controllers\\favoritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\controllers\\concertscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:controllers\\concertscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\controllers\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:controllers\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\models\\recommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:models\\recommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\models\\hall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:models\\hall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\models\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:models\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\recommendation\\recommendationproject\\popular_artists.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:recommendation\\recommendationproject\\popular_artists.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\recommendation\\generate_recommendations.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:recommendation\\generate_recommendations.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sprus\\popular_artists.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\models\\ticketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:models\\ticketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\models\\efmigrationshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:models\\efmigrationshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\migrations\\ticketdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:migrations\\ticketdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sprus\\AppData\\Local\\Temp\\.vsdbgsrc\\f0fd9c2cd6265cdcb8220be6f4b00fccb70256665e6a7865db1042496f8c6520\\JsonSerializerInternalWriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|c:\\users\\sprus\\source\\repos\\ticketapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D02645A-4D1E-4CEE-8339-A5BB3C0E6974}|TicketAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ArtistController.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Controllers\\ArtistController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArtistController.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Controllers\\ArtistController.cs",
+              "RelativeToolTip": "Controllers\\ArtistController.cs",
+              "ViewState": "AgIAAHYBAAAAAAAAAAAmwIEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T08:42:04.099Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T20:07:29.2Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "Controllers\\TicketsController.cs",
+              "ViewState": "AgIAAP0BAAAAAAAAAAAiwAkCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T07:51:20.851Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConcertsController.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Controllers\\ConcertsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ConcertsController.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Controllers\\ConcertsController.cs",
+              "RelativeToolTip": "Controllers\\ConcertsController.cs",
+              "ViewState": "AgIAAKsBAAAAAAAAAAAwwLIBAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:05:54.111Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReviewController.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "Controllers\\ReviewController.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAAALcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:41:16.459Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotificationGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Services\\NotificationGenerator.cs",
+              "RelativeDocumentMoniker": "Services\\NotificationGenerator.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Services\\NotificationGenerator.cs",
+              "RelativeToolTip": "Services\\NotificationGenerator.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:18:50.556Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "Controllers\\NotificationController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:46:51.955Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RecommendationController.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Controllers\\RecommendationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RecommendationController.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Controllers\\RecommendationController.cs",
+              "RelativeToolTip": "Controllers\\RecommendationController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:54:44.169Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Recommendation\\RecommendationProject\\main.py",
+              "RelativeDocumentMoniker": "Recommendation\\RecommendationProject\\main.py",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Recommendation\\RecommendationProject\\main.py",
+              "RelativeToolTip": "Recommendation\\RecommendationProject\\main.py",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAGsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-07T15:38:03.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecommendationSchedulerService.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Services\\RecommendationSchedulerService.cs",
+              "RelativeDocumentMoniker": "Services\\RecommendationSchedulerService.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Services\\RecommendationSchedulerService.cs",
+              "RelativeToolTip": "Services\\RecommendationSchedulerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:02:47.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificationSchedulerService.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Services\\NotificationSchedulerService.cs",
+              "RelativeDocumentMoniker": "Services\\NotificationSchedulerService.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Services\\NotificationSchedulerService.cs",
+              "RelativeToolTip": "Services\\NotificationSchedulerService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:16:18.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FavoriteController.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Controllers\\FavoriteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FavoriteController.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Controllers\\FavoriteController.cs",
+              "RelativeToolTip": "Controllers\\FavoriteController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAuwG4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:14:58.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:47:20.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Concert.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Models\\Concert.cs",
+              "RelativeDocumentMoniker": "Models\\Concert.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Models\\Concert.cs",
+              "RelativeToolTip": "Models\\Concert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:25:36.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GenresController.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "Controllers\\GenresController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T18:14:31.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HallController.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Controllers\\HallController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HallController.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Controllers\\HallController.cs",
+              "RelativeToolTip": "Controllers\\HallController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAiwG4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:48:21.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Favorite.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Models\\Favorite.cs",
+              "RelativeDocumentMoniker": "Models\\Favorite.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Models\\Favorite.cs",
+              "RelativeToolTip": "Models\\Favorite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:59:53.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Models\\Genre.cs",
+              "RelativeToolTip": "Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:59:14.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Hall.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Models\\Hall.cs",
+              "RelativeDocumentMoniker": "Models\\Hall.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Models\\Hall.cs",
+              "RelativeToolTip": "Models\\Hall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:51:44.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "Models\\Notification.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Models\\Notification.cs",
+              "RelativeToolTip": "Models\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:24:18.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "Models\\Review.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Models\\Review.cs",
+              "RelativeToolTip": "Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:21:38.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Recommendation.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Models\\Recommendation.cs",
+              "RelativeDocumentMoniker": "Models\\Recommendation.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Models\\Recommendation.cs",
+              "RelativeToolTip": "Models\\Recommendation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T08:13:26.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "Models\\Artist.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Models\\Artist.cs",
+              "RelativeToolTip": "Models\\Artist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:59:12.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-04T07:18:32.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "popular_artists.json",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Recommendation\\RecommendationProject\\popular_artists.json",
+              "RelativeDocumentMoniker": "Recommendation\\RecommendationProject\\popular_artists.json",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Recommendation\\RecommendationProject\\popular_artists.json",
+              "RelativeToolTip": "Recommendation\\RecommendationProject\\popular_artists.json",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-24T07:45:47.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "generate_recommendations.py",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Recommendation\\generate_recommendations.py",
+              "RelativeDocumentMoniker": "Recommendation\\generate_recommendations.py",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Recommendation\\generate_recommendations.py",
+              "RelativeToolTip": "Recommendation\\generate_recommendations.py",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-03T14:02:29.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Services\\EmailService.cs",
+              "RelativeToolTip": "Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:02:35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Services\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Services\\IEmailService.cs",
+              "RelativeToolTip": "Services\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:02:00.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Models\\Ticket.cs",
+              "RelativeToolTip": "Models\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:23:15.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwD4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T12:55:37.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "popular_artists.json",
+              "DocumentMoniker": "C:\\Users\\sprus\\popular_artists.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\popular_artists.json",
+              "ToolTip": "C:\\Users\\sprus\\popular_artists.json",
+              "RelativeToolTip": "..\\..\\..\\popular_artists.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T15:44:34.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TicketDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Models\\TicketDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\TicketDbContext.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Models\\TicketDbContext.cs",
+              "RelativeToolTip": "Models\\TicketDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAtwBAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:22:51.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Efmigrationshistory.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Models\\Efmigrationshistory.cs",
+              "RelativeDocumentMoniker": "Models\\Efmigrationshistory.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Models\\Efmigrationshistory.cs",
+              "RelativeToolTip": "Models\\Efmigrationshistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T08:09:20.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Section.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Models\\Section.cs",
+              "RelativeDocumentMoniker": "Models\\Section.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Models\\Section.cs",
+              "RelativeToolTip": "Models\\Section.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:48:25.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwBsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:34:20.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAIwGYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T20:04:57.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T20:14:11.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TicketDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Migrations\\TicketDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\TicketDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Migrations\\TicketDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\TicketDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T20:47:50.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:34:57.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "JsonSerializerInternalWriter.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\AppData\\Local\\Temp\\.vsdbgsrc\\f0fd9c2cd6265cdcb8220be6f4b00fccb70256665e6a7865db1042496f8c6520\\JsonSerializerInternalWriter.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f0fd9c2cd6265cdcb8220be6f4b00fccb70256665e6a7865db1042496f8c6520\\JsonSerializerInternalWriter.cs",
+              "ToolTip": "C:\\Users\\sprus\\AppData\\Local\\Temp\\.vsdbgsrc\\f0fd9c2cd6265cdcb8220be6f4b00fccb70256665e6a7865db1042496f8c6520\\JsonSerializerInternalWriter.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f0fd9c2cd6265cdcb8220be6f4b00fccb70256665e6a7865db1042496f8c6520\\JsonSerializerInternalWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:13:19.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\sprus\\source\\repos\\TicketAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T08:41:28.123Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1482,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{320fd13f-632f-4b16-9527-a1adfe555f6c}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
