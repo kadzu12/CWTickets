@@ -1,0 +1,183 @@
+/* Стили остаются такими же, как в предыдущем примере */
+.concert-background {
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+}
+
+.concert-header {
+  display: flex;
+  padding: 40px;
+  background: white;
+  margin: -10% 5% 0 5%;
+  position: relative;
+  z-index: 1;
+  border-radius: 10px 10px 0 0;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.artist-photo-container {
+  position: relative;
+  margin-right: 40px;
+}
+
+.profile-photo-wrapper {
+  width: 200px !important; /* Принудительно устанавливаем размер */
+  height: 200px !important;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  display: inline-block; /* Изменяем тип отображения */
+}
+
+.profile-photo {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover;
+  display: block;
+}
+
+/* Убираем дублирующиеся медиа-запросы */
+@media (max-width: 768px) {
+  .artist-header {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .artist-photo-container {
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+}
+.genres-list {
+  background: #ff5757;
+  border-radius: 10px;
+  box-sizing: border-box;
+  padding: 3.0px;
+  color: #000;
+  width: auto;
+}
+
+.artist-details {
+  flex-grow: 1;
+}
+
+.artist-description {
+  font-size: 16px;
+  line-height: 1.6;
+  color: #555;
+  margin-bottom: 30px;
+}
+
+.concerts-section h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.concerts-info {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  font-size: 14px;
+  color: #666;
+}
+
+.concerts-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 15px;
+}
+
+.concert-card {
+  display: flex;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  border: 1px solid #eee;
+}
+
+.concert-date {
+  padding: 15px;
+  background: #f8f8f8;
+  text-align: center;
+  min-width: 100px;
+  border-right: 1px solid #eee;
+}
+
+.concert-day {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
+
+.concert-month {
+  font-size: 16px;
+  color: #ff5757;
+  font-weight: bold;
+  margin: 5px 0;
+  text-transform: uppercase;
+}
+
+.concert-weekday, .concert-time {
+  font-size: 14px;
+  color: #666;
+}
+
+.concert-location {
+  padding: 15px;
+  flex-grow: 1;
+}
+
+.concert-city {
+  font-size: 16px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 5px;
+}
+
+.concert-venue {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 10px;
+}
+
+.concert-age-limit {
+  font-size: 14px;
+  color: #888;
+}
+
+.concert-availability {
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  min-width: 120px;
+  border-left: 1px solid #eee;
+}
+
+.availability-status {
+  font-size: 14px;
+  color: #ff5757;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+}
+
+.info-button {
+  padding: 6px 12px;
+  background: transparent;
+  border: 1px solid #ff5757;
+  color: #ff5757;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: all 0.3s;
+}
+
+.info-button:hover {
+  background: #ff5757;
+  color: white;
+}
